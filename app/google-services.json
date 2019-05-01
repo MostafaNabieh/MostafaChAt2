@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098886234535",
+    "firebase_url": "https://mostafachatproject.firebaseio.com",
+    "project_id": "mostafachatproject",
+    "storage_bucket": "mostafachatproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098886234535:android:9ab4c93f1dd627a5",
+        "android_client_info": {
+          "package_name": "com.example.mostafachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098886234535-im4r747go9i7utgtia8uitt50mdkiet1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mostafachat",
+            "certificate_hash": "7cb5d794f4344e2a4144efe4991fa2866f9e7ff0"
+          }
+        },
+        {
+          "client_id": "1098886234535-m1oqdr8pcaf70prjf4t3flv6f2m3saas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBADAm-RZjcMoZWQCEPpRHfe61xZMPBTfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098886234535-m1oqdr8pcaf70prjf4t3flv6f2m3saas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
